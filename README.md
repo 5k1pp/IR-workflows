@@ -31,4 +31,4 @@ Contributions are welcome! If you have an **incident response workflow** for a s
 This project is licensed under the **MIT License** – feel free to use and modify the workflows.
 
 ## 💡 Stay Updated
-We plan to continuously add new workflows and improve existing ones. **Stay tuned for updates!** 🚀
+I plan to continuously add new workflows and improve existing ones. **Stay tuned for updates!** 🚀
